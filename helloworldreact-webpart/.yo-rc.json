@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "yarn",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "helloworldreact-webpart",
+    "libraryId": "171a7961-a352-489c-9737-06eb72b3ea85",
+    "componentType": "webpart"
+  }
+}
